@@ -4,4 +4,5 @@ A full-stack project made for study purpose.
 - React Js
 - Node js and javascript
 - MongoDB
+- HTML
 - CSS
